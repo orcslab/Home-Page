@@ -4,15 +4,15 @@ output:
     mathjax         : default
 ---
 
-## [Introduction](#intro)
+## Introduction<a name="intro"></a>
 This is a template for writing articles for the CampeLab home page. To keep our formatting standard, all articles must be written:
 
 1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons.
 2. In [Markdown](http://daringfireball.net/projects/markdown/), preferrably **using this template**!
 
-Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine (check the [Uploading the article](uploading) for details).
+Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine (check the [Uploading the article](#uploading) for details).
 
-## [Writing the article](#writing)
+## [Writing the article]<a name="writing"></a>
 
 Use Rstudio's [R Markdown](http://rmarkdown.rstudio.com) capabilities if you need to embed code, or John Gruber's [Markdown:Dingus](http://daringfireball.net/projects/markdown/dingus) otherwise. If you choose to use other editors, the burden is on you to keep the standards of the home page.
 
@@ -69,7 +69,7 @@ Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selectio
 </center>
 ```
 
-## [Uploading the article](#uploading)
+## [Uploading the article]<a name="uploading"></a>
 
 Here's the step-by-step of the process:
 
