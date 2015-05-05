@@ -44,8 +44,13 @@ There are two options for including figures:
 1. If the figure is already hosted somewhere else in the net (do this only if you're really sure it is not going to suddenly disappear from that place. It is *always* better to use method 2 below, if possible.), you can include it using the HTML `<img>` tag, for instance:
 
 ```
-<center><img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" height=150 width=200><br>
-<font size="small"><strong>Fig. 1: All hail the mighty advisor!</strong></font><br><br></center>
+<center>
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" 
+height=150 width=200>
+<br><font size="small"><strong>
+Fig. 1: All hail the mighty advisor!
+</strong></font><br><br>
+</center>
 ```
 
 2. If you want to include figures that are not hosted elsewhere, upload them to the [CampeLab/Home-Page/Figures](https://github.com/CampeLab/Home-Page/tree/master/Figures) repository, under a new folder with the following structure:
@@ -56,12 +61,15 @@ where `YYYYMMDD` is the date of the first figure upload for your article, and `Y
 `https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/YYYYMMDD-YourName/FigureName.png`
 
 ```
-<center><img src="https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png" alt="SiSU EEUFMG 2015"><br>
-<font size="small"><strong>Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.</strong></font><br><br></center>
+<center>
+<img src="https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png"
+alt="SiSU EEUFMG 2015">
+<br><font size="small"><strong>
+Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
+</strong></font><br><br>
+</center>
 ```
 
-<center><img src="https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png" alt="SiSU EEUFMG 2015"><br>
-<font size="small"><strong>Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.</strong></font><br><br></center>
 ## Uploading the article
 
 Here's the step-by-step of the process:
