@@ -32,11 +32,11 @@ Stick to the standard and keep it simple (the formatting, not necessarily the co
 
 If you need to include equations, use LaTeX's "double dollar signs" for centered equations:
 
-$$
-\begin{split}
-x_1 &= 5\\
-x_2 &= 10
-\end{split}
+$$  
+\begin{split}  
+x_1 &= 5\\  
+x_2 &= 10  
+\end{split}  
 $$
 
 There are two options for including figures:
