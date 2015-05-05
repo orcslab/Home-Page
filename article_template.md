@@ -10,7 +10,7 @@ This is a template for writing articles for the CampeLab home page. To keep our 
 1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons.
 2. In [Markdown](http://daringfireball.net/projects/markdown/), preferrably **using this template**!
 
-Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine.
+Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine (check the [Uploading the article](uploading) for details).
 
 ## [Writing the article](#writing)
 
