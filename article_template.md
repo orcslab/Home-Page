@@ -38,21 +38,7 @@ $$
 x = \frac{5^2}{y}
 $$
 
-There are two options for including figures:
-
-1. If the figure is already hosted somewhere else in the net (do this only if you're really sure it is not going to suddenly disappear from that place. It is *always* better to use method 2 below, if possible.), you can include it using the HTML `<img>` tag, for instance:
-
-```
-<center>
-<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" 
-height=150 width=200>
-<br><font size="small"><strong>
-Fig. 1: All hail the mighty advisor!
-</strong></font><br><br>
-</center>
-```
-
-2. If you want to include figures that are not hosted elsewhere, upload them to the [CampeLab/Home-Page/Figures](https://github.com/CampeLab/Home-Page/tree/master/Figures) repository, under a new folder with the following structure:
+If you want to include figures that are not hosted elsewhere, upload them to the [CampeLab/Home-Page/Figures](https://github.com/CampeLab/Home-Page/tree/master/Figures) repository, under a new folder with the following structure:
 
 `CampeLab/Home-Page/Figures/YYYYMMDD-YourName/`
 
@@ -75,6 +61,8 @@ alt="SiSU EEUFMG 2015">
 Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
 </strong></font><br><br>
 </center>
+
+If the figure is already hosted somewhere else in the net (and if you're really sure it is not going to suddenly disappear from that place) just use the appropriate address, and give the proper attribution.
 
 ## <a name="uploading"></a>Uploading the article
 
