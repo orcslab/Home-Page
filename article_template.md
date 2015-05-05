@@ -66,8 +66,7 @@ If the figure is already hosted somewhere else in the net (and if you're really 
 
 ```
 <center>
-<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" 
-height=150 width=200>
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!">
 <br><font size="small"><strong>
 Fig. 1: All hail the mighty advisor!<br>
 </strong>
