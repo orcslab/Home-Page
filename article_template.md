@@ -33,10 +33,7 @@ Stick to the standard and keep it simple (the formatting, not necessarily the co
 If you need to include equations, use LaTeX's "double dollar signs" for centered equations:
 
 $$  
-\begin{split}  
-x_1 &= 5\\  
-x_2 &= 10  
-\end{split}  
+x = \frac{5^2}{y}
 $$
 
 There are two options for including figures:
