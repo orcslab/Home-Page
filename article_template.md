@@ -4,13 +4,15 @@ output:
     mathjax         : default
 ---
 
-## Introduction
+## [Introduction](#intro)
 This is a template for writing articles for the CampeLab home page. To keep our formatting standard, all articles must be written:
 
 1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons.
 2. In [Markdown](http://daringfireball.net/projects/markdown/), preferrably **using this template**!
 
-## Writing the article
+Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine.
+
+## [Writing the article](#writing)
 
 Use Rstudio's [R Markdown](http://rmarkdown.rstudio.com) capabilities if you need to embed code, or John Gruber's [Markdown:Dingus](http://daringfireball.net/projects/markdown/dingus) otherwise. If you choose to use other editors, the burden is on you to keep the standards of the home page.
 
@@ -67,7 +69,7 @@ Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selectio
 </center>
 ```
 
-## Uploading the article
+## [Uploading the article](#uploading)
 
 Here's the step-by-step of the process:
 
@@ -77,7 +79,7 @@ Here's the step-by-step of the process:
 
     - If you used Markdown Dingus, click the _Convert_ button and the HTML code will be displayed in a window;
 
-2. Log in the CampeLab home page, click on the _Members Only_ tab and select the _New publication_ option (it's in the left bar);
+2. Log into the CampeLab home page, click on the _Members Only_ tab and select the _New publication_ option (it's in the left bar);
 
 3. Fill the fields. 
     - _Article Name_: the title of the article;
