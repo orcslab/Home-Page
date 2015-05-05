@@ -32,7 +32,7 @@ output:
 ### Document body
 Stick to the standard and keep it simple (the formatting, not necessarily the content). Markdown's _raison d'etre_ is to simplify formatting so that you can focus on content, so __don't overcomplicate things__! 
 
-If you need to include equations, use LaTeX's "double dollar signs" for centered equations:
+If you need to include equations, use LaTeX's "double dollar signs" for centered equations (yes, I know it is not looking right - just use it and everything will be alright in the HTML document, I promise):
 
 $$  
 x = \frac{5^2}{y}
@@ -68,6 +68,13 @@ Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selectio
 </strong></font><br><br>
 </center>
 ```
+<center>
+<img src="https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png"
+alt="SiSU EEUFMG 2015">
+<br><font size="small"><strong>
+Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
+</strong></font><br><br>
+</center>
 
 ## <a name="uploading"></a>Uploading the article
 
