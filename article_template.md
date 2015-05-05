@@ -62,7 +62,29 @@ Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selectio
 </strong></font><br><br>
 </center>
 
-If the figure is already hosted somewhere else in the net (and if you're really sure it is not going to suddenly disappear from that place) just use the appropriate address, and give the proper attribution.
+If the figure is already hosted somewhere else in the net (and if you're really sure it is not going to suddenly disappear from that place) just use the appropriate address, and give the proper attribution:
+
+```
+<center>
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" 
+height=150 width=200>
+<br><font size="small"><strong>
+Fig. 1: All hail the mighty advisor!<br>
+</strong>
+[Source: Felipe Campelo - the Unauthorized Biography, Random House, 2059.]
+</font><br><br>
+</center>
+```
+<center>
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!" 
+height=150 width=200>
+<br><font size="small"><strong>
+Fig. 1: All hail the mighty advisor!<br>
+</strong>
+[Source: Felipe Campelo - the Unauthorized Biography, Random House, 2059.]
+</font><br><br>
+</center>
+
 
 ## <a name="uploading"></a>Uploading the article
 
