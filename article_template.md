@@ -55,7 +55,7 @@ Fig. 1: All hail the mighty advisor!
 
 2. If you want to include figures that are not hosted elsewhere, upload them to the [CampeLab/Home-Page/Figures](https://github.com/CampeLab/Home-Page/tree/master/Figures) repository, under a new folder with the following structure:
 
-`CampeLab/Home-Page-Figures/YYYYMMDD-YourName/`
+`CampeLab/Home-Page/Figures/YYYYMMDD-YourName/`
 
 where `YYYYMMDD` is the date of the first figure upload for your article, and `YourName` is, well, your name. Place all figures for one particular article within this folder, and include them in your document using the appropriate HTML tag. The address for including your figure will be:  
 `https://raw.githubusercontent.com/CampeLab/Home-Page/master/Figures/YYYYMMDD-YourName/FigureName.png`
