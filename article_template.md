@@ -8,7 +8,7 @@ output:
 This is a template for writing articles for the CampeLab home page. To keep our formatting standard, all articles must be written:
 
 1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons.
-2. In [Markdown](http://daringfireball.net/projects/markdown/).
+2. In [Markdown](http://daringfireball.net/projects/markdown/), preferrably **using this template**!
 
 ## Writing the article
 
