@@ -35,7 +35,7 @@ Stick to the standard and keep it simple (the formatting, not necessarily the co
 If you need to include equations, use LaTeX's "double dollar signs" for centered equations (yes, I know it is not looking right - just use it and everything will be alright in the HTML document, I promise):
 
 $$  
-x = \frac{5^2}{y}
+x = \frac{5^2}{y}  
 $$
 
 If you want to include figures that are not hosted elsewhere, upload them to the [ORCSLab/Home-Page/Figures](https://github.com/ORCSLab/Home-Page/tree/master/Figures) repository, under a new folder with the following structure:
