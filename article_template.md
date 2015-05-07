@@ -88,7 +88,7 @@ Fig. 1: All hail the mighty advisor!<br>
 
 Here's the step-by-step of the process:
 
-1. After you have written your article, you'll need to compile it to HTML before uploading it to the page:
+1. After you have written your article, you'll need to convert it to HTML before uploading it to the page:
 
     - If you used RStudio, click _Knit HTML_ in RStudio's editor and the HTML file will be generated. Open this file in the editor;
 
