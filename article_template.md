@@ -4,13 +4,13 @@
   mathjax         : default
 ---
   
-  ## <a name="intro"></a>Introduction
-  This is a template for writing articles for the ORCSLab home page. To keep our formatting standard, all articles must be written:
-  
-  1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons.
+## <a name="intro"></a>Introduction
+This is a template for writing articles for the ORCSLab home page. To keep our formatting standard, all articles must be written:
+
+1. In (at least reasonably good) English. If you're not comfortable with the language, i) get the help of another student who is, and ii) go get yourself some more English lessons;
 2. In [Markdown](http://daringfireball.net/projects/markdown/), preferrably **using this template**!
 
-Warning: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine (check the [Uploading the article](#uploading) for details).
+**Warning**: Github's Markdown viewer screws things a little bit (particularly images and equations), so don't worry if this template looks a bit rough around the edges - it will convert to HTML just fine (check the [Uploading the article](#uploading) for details).
 
 ## <a name="writing"></a>Writing the article
 
@@ -31,8 +31,8 @@ mathjax         : default
 
 ### Document body
 Stick to the standard and keep it simple (the formatting, not necessarily the content). Markdown's _raison d'etre_ is to simplify formatting so that you can focus on content, so __don't overcomplicate things__! 
-  
-  If you need to include equations, use LaTeX's "double dollar signs" for centered equations (yes, I know it is not looking right - just use it and everything will be alright in the HTML document, I promise):
+
+If you need to include equations, use LaTeX's "double dollar signs" for centered equations (yes, I know it is not looking right - just use it and everything will be alright in the HTML document, I promise):
 
 $$  
 x = \frac{5^2}{y}
@@ -52,54 +52,53 @@ alt="SiSU EEUFMG 2015">
 <br><font size="small"><strong>
 Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
 </strong></font><br><br>
-  </center>
+</center>
   ```
 <center>
-  <img src="https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png"
+<img src="https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150503-Felipe/SiSu2015-1_EEUFMG_MaxMin.png"
 alt="SiSU EEUFMG 2015">
-  <br><font size="small"><strong>
-  Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
+<br><font size="small"><strong>
+Fig. 2: Cutoff and maximum grades for UFMG's School of Engineering SiSU selection, 2015-1.
 </strong></font><br><br>
 </center>
 
 If the figure is already hosted somewhere else in the net (and if you're really sure it is not going to suddenly disappear from that place) just use the appropriate address, and give the proper attribution:
   
-  ```
+```
 <center>
-  <img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!">
-  <br><font size="small"><strong>
-  Fig. 1: All hail the mighty advisor!<br>
-  </strong>
-  (Source: Felipe Campelo - the Unauthorized Biography, Random House, 2059.)
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!">
+<br><font size="small"><strong>
+Fig. 1: All hail the mighty advisor!<br>
+</strong>
+(Source: <i>Felipe Campelo - an unauthorized biography</i>, Random House, 2059.)
 </font><br><br>
-  </center>
+</center>
   ```
+  
 <center>
-  <img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!">
-  <br><font size="small"><strong>
-  Fig. 1: All hail the mighty advisor!<br>
-  </strong>
-  (Source: Felipe Campelo - the Unauthorized Biography, Random House, 2059.)
+<img src="http://150.164.32.10/joomla/images/members/Campelo_small.jpeg" alt="That's me!">
+<br><font size="small"><strong>
+Fig. 1: All hail the mighty advisor!<br>
+</strong>
+(Source: <i>Felipe Campelo - an unauthorized biography</i>, Random House, 2059.)
 </font><br><br>
-  </center>
-  
-  
-  ## <a name="uploading"></a>Uploading the article
-  
-  Here's the step-by-step of the process:
+</center>
+
+
+## <a name="uploading"></a>Uploading the article
+
+Here's the step-by-step of the process:
 
 1. After you have written your article, you'll need to convert it to HTML before uploading it to the page:
-  
   - If you used RStudio, click _Knit HTML_ in RStudio's editor and the HTML file will be generated. Open this file in the editor;
-
-    - If you used Markdown Dingus, click the _Convert_ button and the HTML code will be displayed in a window;
+  - If you used Markdown Dingus, click the _Convert_ button and the HTML code will be displayed in a window;
 
 2. Log into the ORCSLab home page, click on the _Members Only_ tab and select the _New publication_ option (it's in the left bar);
 
 3. Fill the fields. 
-- _Article Name_: the title of the article;
-- _Article Intro_: a first paragraph that will appear before the "Read More" button. Make it interesting and relatively short (300 to 800 characters, or 60 to 120 words). You can use your own article's first words, as long as there is no fancy formatting in there (some regular text formatting - _italics_, __bold__, etc.) is OK);
-    - _Article Body_: the rest of your article. Just paste the HTML that you created in here. 
+  - _Article Name_: the title of the article;
+  - _Article Intro_: a first paragraph that will appear before the "Read More" button. Make it interesting and relatively short (300 to 800 characters, or 60 to 120 words). You can use your own article's first words, as long as there is no fancy formatting in there (some regular text formatting - _italics_, __bold__, etc.) is OK);
+  - _Article Body_: the rest of your article. Just paste the HTML that you created in here. 
 
 4. Click _Submit_.
 
