@@ -16,7 +16,7 @@ This is a template for writing articles for the ORCSLab home page. To keep our f
 
 Use Rstudio's [R Markdown](http://rmarkdown.rstudio.com) capabilities if you need to embed code, or John Gruber's [Markdown:Dingus](http://daringfireball.net/projects/markdown/dingus) otherwise. If you choose to use other editors, the burden is on you to keep the standards of the home page.
 
-For a good example of Markdown in action, check [this page](http://daringfireball.net/projects/markdown/syntax) and the [Markdown code that generates it](http://daringfireball.net/projects/markdown/syntax.text).
+You can simply use this template as a basis for your article. To get the raw text version of this template, just [click here](https://raw.githubusercontent.com/ORCSLab/Home-Page/master/article_template.md). For another good example of Markdown in action, check [this page](http://daringfireball.net/projects/markdown/syntax) and the [Markdown code that generates it](http://daringfireball.net/projects/markdown/syntax.text).
 
 ### Document header
 Do not use the _title_, _author_, etc. fields in the document header. Actually, unless you really need something in particular, you can simply use (like I did in this template):
