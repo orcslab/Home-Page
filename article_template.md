@@ -1,7 +1,7 @@
 ---
-  output:
+output:
   html_document:
-  mathjax         : default
+    mathjax         : default
 ---
   
 ## <a name="intro"></a>Introduction
