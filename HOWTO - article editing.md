@@ -3,8 +3,10 @@ output:
   html_document:
     self_contained: no
 ---
-Editing an article or a profile
-----------------------------------
+
+##Editing an article or a profile
+
+_Vittor Faria_  
 
 ###Introduction
 
@@ -42,7 +44,4 @@ You can also change the picture of the article. **Important**: if you're editing
 Don't forget to click _save_ after you're done.
 
 That's all, folks!  
-Thanks for reading!
-Vittor
-
-
+Thanks for reading! 
