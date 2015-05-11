@@ -19,7 +19,7 @@ Once logged, you'll see an icon next to the articles you have permission to edit
 
 ----
 
-![icons](icon.png)
+![icons](https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150511-Vittor/icon.png)
 
 ----
 
@@ -29,7 +29,7 @@ By clicking the icon you'll be directed to the edition page, where you can modif
 
 ----
 
-![Edition page](Edition.png)  
+![Edition page](https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150511-Vittor/Edition.png)  
 
 ----  
 
@@ -37,7 +37,7 @@ You can also change the picture of the article, remembering that if the article 
 
 ----  
 
-![Images edition](images.png)  
+![Images edition](https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150511-Vittor/images.png)  
 
 ----  
 Don't forget of clicking save after editing.
