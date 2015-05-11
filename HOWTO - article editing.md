@@ -8,14 +8,13 @@ Editing an article or a profile
 
 ###Introduction
 
-This document is meant to show the correct way for editing articles and profiles.
+This document will guide you on how to edit articles and profiles in the ORCSLab home page.
     
 
 ###Editing an article
 
-To edit an aticle that you've created, you must be logged in the system. 
+To edit an article that you've created, you must be logged in the system. 
 Once logged, you'll see an icon next to the articles you have permission to edit. 
-
 
 ----
 
@@ -23,7 +22,7 @@ Once logged, you'll see an icon next to the articles you have permission to edit
 
 ----
 
-Note that in the image I'm logged as Super User, so I have permission to edit every article. If you're not an editor, the icon will appear only in the articles that you have created. 
+Note that in the image above I'm logged as _Super User_, so I have permission to edit every article. If you're not an editor, the icon will appear only in the articles that you have created.
 
 By clicking the icon you'll be directed to the edition page, where you can modify the article.
 
@@ -33,16 +32,16 @@ By clicking the icon you'll be directed to the edition page, where you can modif
 
 ----  
 
-You can also change the picture of the article, remembering that if the article is your profile, the "intro image" **must be in 200x245 resolution**. The "full article image" can have any resolution, observing, of course, how you want your article to look.  
+You can also change the picture of the article. **Important**: if you're editing your _profile_, the "intro image" **must be in 200x245 resolution**. The "full article image" can have any resolution, depending, of course, on how you want your article to look.
 
 ----  
 
 ![Images edition](https://raw.githubusercontent.com/ORCSLab/Home-Page/master/Figures/20150511-Vittor/images.png)  
 
 ----  
-Don't forget of clicking save after editing.
+Don't forget to click _save_ after you're done.
 
-Well, thats all folks.  
+That's all, folks!  
 Thanks for reading!
 Vittor
 
