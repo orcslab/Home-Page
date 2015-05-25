@@ -1,0 +1,67 @@
+---
+output: html_document
+---
+
+## <a name="overview"></a>Overview
+Our teaching is closely related to our research, mainly in the fields of operational research, optimization, multicriteria decision theory and applications, systems reliability and statistical modeling and inference. The connection between research and teaching flows both ways, with classroom discussions often inpiring new lines of investigation for our research group, and new developments in our optimization algorithms and on the statistical methodologies developed to test and compare them going back as case studies and new material for the undergraduate and graduate courses.
+
+***
+
+## <a name="grad"></a>Graduate Courses
+
+### Design and Analysis of Experiments  
+**Professor**: [Felipe Campelo](mailto:fcampelo@ufmg.br)  
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Language**: English (first term) and Portuguese (second term).  
+**More Information and Course Materials**:  
+
+### Multiobjective Optimization
+**Professor**: [Eduardo Carrano](mailto:carrano@cpdee.ufmg.br) and [Lucas Batista](mailto:lusoba@ufmg.br)  
+**Syllabus**:  
+**Schedule**: Offered once a year, usually in the second term (August - December).  
+**Language**: Portuguese.  
+**More Information and Course Materials**: 
+
+***
+
+## <a name="undergrad"></a>Undergraduate Courses (in Portuguese)
+
+### Nonlinear Optimization
+**Professor**: [Lucas Batista](mailto:lusoba@ufmg.br)   
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Level**: 2nd year Systems Engineering / 4th year Electrical Engineering  
+**More Information and Course Materials**:
+
+
+### Operations Research
+**Professor**: [Eduardo Carrano](mailto:carrano@cpdee.ufmg.br)   
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Level**: 3rd year Systems Engineering  
+**More Information and Course Materials**:
+
+
+### Decision Theory
+**Professor**: [Lucas Batista](mailto:lusoba@ufmg.br)   
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Level**: 4th year Systems Engineering  
+**More Information and Course Materials**:
+
+
+### Statistical Modeling and Inference
+**Professor**: [Felipe Campelo](mailto:fcampelo@ufmg.br)   
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Level**: 4th year Systems Engineering  
+**More Information and Course Materials**: 
+
+### Systems Reliability
+**Professor**: [Eduardo Carrano](mailto:carrano@cpdee.ufmg.br)   
+**Syllabus**:  
+**Schedule**: Offered twice a year.  
+**Level**: 4th year Systems Engineering  
+**More Information and Course Materials**:
+

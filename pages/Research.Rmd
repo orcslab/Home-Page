@@ -1,0 +1,38 @@
+---
+output: html_document
+---
+
+## <a name="overview"></a>Overview
+Research in the ORCS Lab focuses mainly on the development and application of optimisation methods to complex systems; on data science and statistical modeling; and on the applications of computational intelligence to large-scale power and energy systems.
+
+***
+
+## <a name="optim"></a>Optimization
+
+1. Evolutionary Computation and Other Metaheuristics
+
+2. Multi- and Many-Objective Optimization
+
+3. Multicriteria Decision Making
+
+4. Matheuristics
+
+***
+
+## <a name="stats"></a>Statistical Modeling and Inference
+
+1. Experimental Analysis and Comparison of Algorithms
+
+2. Reliability Modeling and Applications
+
+***
+
+## <a name="applications"></a>Applications
+
+1. Power and Energy Systems
+
+2. Aeronautical Systems
+
+3. Transportation Systems
+
+***
