@@ -14,7 +14,8 @@ Our teaching is closely related to our research, mainly in the fields of operati
 **Syllabus**:  
 **Schedule**: Offered twice a year.  
 **Language**: English (first term) and Portuguese (second term).  
-**More Information and Course Materials**:  
+**More Information**:  [Course FAQ](index.php?option=com_content&view=article&id=54).  
+**Course Materials**: [GitHub Repo](https://github.com/fcampelo/Design-and-Analysis-of-Experiments)
 
 ### Multiobjective Optimization
 **Professor**: [Eduardo Carrano](mailto:carrano@cpdee.ufmg.br) and [Lucas Batista](mailto:lusoba@ufmg.br)  
