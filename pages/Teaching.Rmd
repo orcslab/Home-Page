@@ -11,7 +11,7 @@ Our teaching is closely related to our research, mainly in the fields of operati
 
 ### Design and Analysis of Experiments  
 **Professor**: [Felipe Campelo](mailto:fcampelo@ufmg.br)  
-**Syllabus**:  
+**Syllabus**:  Introduction to the scientific method and the role of experimentation. Principles of experimental design. Simple comparative experiments. One-way ANOVA. Blocking and factorial experiments. Nonparametric methods. Multiple hypotheses testing. Effect sizes. Sample size calculations.  
 **Schedule**: Offered twice a year.  
 **Language**: English (first term) and Portuguese (second term).  
 **More Information**:  [Course FAQ](index.php?option=com_content&view=article&id=54).  
